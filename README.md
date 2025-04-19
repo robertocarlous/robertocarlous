@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with optimizing storage deals, cross-chain content verification, and scaling smart contract systems.
 - 💬 Ask me about Solidity, Filecoin, AI x Web3 integration, Hackathon strategy, or how to blend education with blockchain!
 - 📫 How to reach me: @robertocarlous on GitHub | LinkedIn
-- ⚡ Fun fact: I once built a Web3 voting platform, an LMS, and a staking game — all within hackathon weekends 🚀
+- ⚡ Fun fact: I love reading
 
 🌐 Socials:
 [LinkedIn](https://linkedin.com/in/Robbert Aruleba ) [Medium](https://medium.com/@Robbert Abimbola) X email
