@@ -1,12 +1,12 @@
 
 👋 Hi there, I’m Robbert Aruleba!
 
-- 🔭 I’m currently working on Decentralized File Vault — a Web3 dApp for secure document storage, AI-powered job matching, and smart CV building.
-- 🌱 I’m currently learning about Filecoin Virtual Machine (FVM), LangChain, and decentralized identity systems (DIDs).
-- 👯 I’m looking to collaborate on Web3 education tools, AI-integrated dApps, and decentralized career platforms.
+- 🔭 I’m currently working on building Decentralized applications that solve real world challanges
+- 🌱 I’m currently learning about the ethereum virtual machine
+- 👯 I’m looking to collaborate on Web3 education tools, AI-integrated dApps, and decentralized applications
 - 🤔 I’m looking for help with optimizing storage deals, cross-chain content verification, and scaling smart contract systems.
-- 💬 Ask me about Solidity, Filecoin, AI x Web3 integration, Hackathon strategy, or how to blend education with blockchain!
-- 📫 How to reach me: @robertocarlous on GitHub | LinkedIn
+- 💬 Ask me about Solidity, Filecoin, AI x Web3 integration 
+- 📫 How to reach me: @robertocarlous on GitHub | LinkedIn: Robbert Aruleba 
 - ⚡ Fun fact: I love reading
 
 🌐 Socials:
