@@ -1,5 +1,5 @@
 
-👋 Hi there, I’m Robbert Aruleba!
+👋 Hi there, I’m Robbert 
 
 - 🔭 I’m currently working on building Decentralized applications that solve real world challanges
 - 🌱 I’m currently learning about the ethereum virtual machine
