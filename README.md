@@ -1,7 +1,7 @@
 
 👋 Hi there, I’m Robbert 
 
-- 🔭 I’m currently working on building Decentralized applications that solve real world challanges
+- 🔭 I’m currently working on building Blockchain applications that solve real world challanges
 - 🌱 I’m currently building on the ethereum virtual machine
 - 💬 Ask me about Solidity, Filecoin, AI x Web3 integration 
 - 📫 How to reach me: @robertocarlous on GitHub | LinkedIn: Robbert Aruleba 
