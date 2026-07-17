@@ -8,7 +8,7 @@
 
 
 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Robbert/Aruleba ) (x robertocalous) [Medium](https://medium.com/@Robbert Abimbola) X email:robbertabimbola21@gmail.com
+[LinkedIn](https://www.linkedin.com/in/robbert-aruleba) (x robertocalous) [Medium](https://medium.com/@Robbert Abimbola) X email:robbertabimbola21@gmail.com
 
 💻 Tech Stack:
 JavaScript Solidity TypeScript Vercel Netlify JWT Nodemon NodeJS NPM Web3.js MongoDB
